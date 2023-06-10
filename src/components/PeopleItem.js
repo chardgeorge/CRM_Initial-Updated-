@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
     },
 });
 
-const PeopleItem = (props) => {
+const PeopleItem = (props) => { 
     
     const {firstName, lastName, company} = props.people
 
