@@ -13,7 +13,7 @@ const App = () => (
 );
 
 const styles = StyleSheet.create({
-  container: {
+  container: { 
     flex: 1,
   },
   image: {
